@@ -1,107 +1,83 @@
 <div align="center">
 
-# Olá, eu sou o Caio 👋
+![Caio Santos Silva — Desenvolvedor Full Stack](./banner.svg)
 
-### Desenvolvimento web · APIs · Inteligência artificial
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAIO%20SANTOS-FFD600?style=for-the-badge&labelColor=111111)](https://www.linkedin.com/in/caio-sants/)
+[![Email](https://img.shields.io/badge/EMAIL-FALE%20COMIGO-FFD600?style=for-the-badge&labelColor=111111)](mailto:caio.sants@proton.me)
 
-Construindo aplicações com Python e TypeScript — de APIs e interfaces web a agentes com IA e ferramentas para desenvolvedores.
-
-[![GitHub](https://img.shields.io/badge/GitHub-CaioSantdev-181717?style=for-the-badge&logo=github)](https://github.com/CaioSantdev)
+**Desenvolvimento web · APIs · Inteligência artificial**
 
 </div>
 
----
+## Sobre mim
 
-## 👨‍💻 Sobre mim
+Sou Caio Santos Silva, formado em Computação. Desenvolvo aplicações com Python e TypeScript, conectando APIs, interfaces web e bancos de dados.
 
-Meus projetos exploram desenvolvimento full stack, processamento assíncrono, containers e inteligência artificial aplicada.
+Meus projetos vão de ferramentas para gerenciar containers a agentes de conhecimento com IA e experimentos com redes neurais. Trabalho com React no frontend e FastAPI no backend, com atenção a testes automatizados, documentação e deploy com Docker.
 
-- 🐍 Backend com **Python e FastAPI**.
-- ⚛️ Interfaces com **React e TypeScript**.
-- 🧠 Experimentos com **RAG, busca vetorial e redes neurais**.
-- 🐳 Aplicações organizadas com **Docker e Docker Compose**.
-- 🧪 Testes automatizados e documentação fazem parte dos meus projetos.
+## Tecnologias
 
-## 🛠️ Tecnologias presentes nos meus projetos
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD600)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=FFD600)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FFD600)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=FFD600)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FFD600)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=FFD600)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=FFD600)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FFD600)
 
-**Também nos projetos:** SQLAlchemy · Alembic · Celery · pgvector · Pytest · Playwright · Nginx
+</div>
 
-## 🚀 Projetos em destaque
+**Backend:** SQLAlchemy · Alembic · Celery · JWT  
+**Frontend:** Vite · CSS responsivo  
+**Qualidade:** Pytest · Playwright  
+**IA e dados:** RAG · pgvector · LSTM · Séries temporais
+
+## Projetos em destaque
 
 ### 🦉 [Noctua — Agente de conhecimento com IA](https://github.com/CaioSantdev/Noctua-Agent)
 
-Protótipo de uma plataforma para consultar documentos por meio de um chat com inteligência artificial.
+Protótipo de uma plataforma para consultar documentos por meio de um chat com IA. Combina upload de PDF/TXT, indexação assíncrona, busca semântica e respostas com fontes citáveis. Possui autenticação JWT e isolamento dos dados por organização.
 
-- Upload e indexação assíncrona de arquivos PDF e TXT.
-- Busca semântica e respostas com fontes citáveis usando RAG.
-- Autenticação JWT e isolamento de dados por organização.
-- Processamento em segundo plano com Redis e Celery.
-
-**Tecnologias:** Python · FastAPI · React · TypeScript · PostgreSQL · pgvector · Redis · Celery · Docker
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `pgvector` `Redis` `Celery` `Docker`
 
 ### 🐳 [EzDocker — Gerenciamento de containers](https://github.com/CaioSantdev/EzDocker)
 
-Ferramenta local para visualizar e controlar containers Docker por um painel web.
+Painel web local para visualizar containers Docker, iniciar, parar e reiniciar serviços e consultar logs. Inclui API em Python e execução com Docker Compose e Nginx.
 
-- Listagem de containers ativos e parados.
-- Ações para iniciar, parar e reiniciar containers.
-- Consulta de logs pela interface.
-- Execução com Docker Compose e proxy reverso com Nginx.
-
-**Tecnologias:** Python · FastAPI · TypeScript · Vite · Docker · Nginx
+`Python` `FastAPI` `TypeScript` `Vite` `Docker` `Nginx`
 
 ### 🏋️ [OverLog — Acompanhamento de treinos](https://github.com/CaioSantdev/OverLog)
 
-Aplicação web para organizar treinos de musculação, registrar cargas e acompanhar a evolução.
+Aplicação web para organizar treinos de musculação, registrar cargas e acompanhar a evolução. Reúne uma interface responsiva em React, API com FastAPI, persistência em PostgreSQL e testes automatizados.
 
-- Organização de treinos, séries e repetições.
-- Interface responsiva com React e TypeScript.
-- API com FastAPI e persistência em PostgreSQL.
-- Estrutura com migrações de banco e testes automatizados.
-
-**Tecnologias:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Docker
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `SQLAlchemy` `Docker`
 
 ### 📈 [FinanceNeuralNetwork — Redes neurais e séries financeiras](https://github.com/CaioSantdev/FinanceNeuralNetwork)
 
-Estudo de previsão de séries temporais de ações bancárias da B3 com redes LSTM.
+Estudo de previsão de séries temporais de ações bancárias da B3 com redes LSTM. Inclui preparação de dados, separação temporal entre treino e teste, métricas de regressão e backtests com comparação ao buy and hold.
 
-- Preparação de dados e divisão temporal entre treino e teste.
-- Comparação de modelos com diferentes horizontes históricos.
-- Avaliação de previsões com métricas de regressão.
-- Backtests de estratégias e comparação com buy and hold.
-- Geração de gráficos e relatórios dos experimentos.
+`Python` `Machine Learning` `LSTM` `Análise de dados`
 
-**Áreas:** Python · Machine Learning · LSTM · Séries temporais · Análise de dados
+## Trabalho registrado nos commits
 
-## 🔨 Contribuições recentes
+| Projeto | Exemplos de contribuições |
+| --- | --- |
+| Noctua | Gestão de documentos |
+| EzDocker | Deploy com Docker Compose e tratamento de respostas da API |
+| OverLog | Configuração de HTTPS e tratamento de falhas no proxy |
+| FinanceNeuralNetwork | Resultados dos experimentos e ajustes em gráficos de ROI |
 
-Alguns exemplos do trabalho registrado nos meus commits:
-
-- **Noctua:** gestão de documentos.
-- **EzDocker:** deploy com Docker Compose e tratamento de respostas da API.
-- **OverLog:** configuração de HTTPS e tratamento de falhas no proxy.
-- **FinanceNeuralNetwork:** resultados dos experimentos e ajustes em gráficos de ROI.
-
-[Explorar meus repositórios →](https://github.com/CaioSantdev?tab=repositories)
+[Ver todos os repositórios →](https://github.com/CaioSantdev?tab=repositories)
 
 ---
 
 <div align="center">
 
-### Vamos conversar sobre código?
+**Vamos conversar sobre tecnologia e projetos?**
 
-[Abra uma conversa por aqui](https://github.com/CaioSantdev)
+[LinkedIn](https://www.linkedin.com/in/caio-sants/) · [caio.sants@proton.me](mailto:caio.sants@proton.me)
 
 </div>
