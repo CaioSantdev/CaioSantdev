@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Caio Santos Silva — Desenvolvedor Full Stack</title>
+  <desc id="desc">Banner preto e amarelo com faixas diagonais de atenção. Formado em Computação. Python, FastAPI, React e TypeScript.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#191b1d"/><stop offset=".55" stop-color="#090a0b"/><stop offset="1" stop-color="#181a1c"/></linearGradient>
+    <pattern id="stripes" width="42" height="42" patternUnits="userSpaceOnUse" patternTransform="skewX(-40)"><rect width="21" height="42" fill="#ffd600"/><rect x="21" width="21" height="42" fill="#101112"/></pattern>
+    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#555" opacity=".22"/></pattern>
+    <linearGradient id="line"><stop stop-color="#ffd600" stop-opacity="0"/><stop offset=".5" stop-color="#ffd600"/><stop offset="1" stop-color="#ffd600" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#080a0c"/>
+  <path d="M24 40H960L980 22H1176V250H250L230 270H24Z" fill="url(#background)" stroke="#ffd600" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M24 60H240L75 245H24ZM1176 48H1130L985 250H1176Z" fill="url(#dots)"/>
+  <path d="M30 47H300L268 79H30ZM900 230H1170V262H868Z" fill="url(#stripes)"/>
+  <path d="M24 200L157 67H207L24 250ZM1176 75L1021 230H1065L1176 119Z" fill="#292c2f" opacity=".55"/>
+  <g fill="#0c0d0e" stroke="#606368" stroke-width="1.5">
+    <circle cx="40" cy="94" r="6"/><circle cx="1160" cy="40" r="6"/><circle cx="40" cy="252" r="6"/><circle cx="1160" cy="217" r="6"/>
+  </g>
+  <g stroke="#919497" stroke-width="1.4"><path d="M37 91L43 97M43 91L37 97M1157 37L1163 43M1163 37L1157 43M37 249L43 255M43 249L37 255M1157 214L1163 220M1163 214L1157 220"/></g>
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="126" fill="#fafafa" font-size="55" font-weight="800" letter-spacing="1">Caio Santos Silva</text>
+    <text x="600" y="165" fill="#e4e4e4" font-size="22" font-weight="600">Desenvolvedor Full Stack <tspan fill="#ffd600">|</tspan> Formado em Computação</text>
+    <text x="600" y="199" fill="#bfc0c2" font-size="18">Python <tspan fill="#ffd600">•</tspan> FastAPI <tspan fill="#ffd600">•</tspan> React <tspan fill="#ffd600">•</tspan> TypeScript</text>
+    <text x="600" y="241" fill="#ffd600" font-size="25" font-weight="700">&lt;/&gt;</text>
+  </g>
+  <path d="M310 232H550M650 232H890" stroke="url(#line)" stroke-width="3"/>
+</svg>
