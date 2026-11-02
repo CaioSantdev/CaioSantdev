@@ -19,7 +19,6 @@
   <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
     <text x="600" y="126" fill="#fafafa" font-size="55" font-weight="800" letter-spacing="1">Caio Santos Silva</text>
     <text x="600" y="165" fill="#e4e4e4" font-size="22" font-weight="600">Full Stack Engineer <tspan fill="#ffd600">|</tspan> Backend <tspan fill="#ffd600">|</tspan> Python <tspan fill="#ffd600">|</tspan> Django <tspan fill="#ffd600">|</tspan> FastAPI</text>
-    <text x="600" y="199" fill="#bfc0c2" font-size="18">Python <tspan fill="#ffd600">•</tspan> FastAPI <tspan fill="#ffd600">•</tspan> React <tspan fill="#ffd600">•</tspan> TypeScript</text>
     <text x="600" y="241" fill="#ffd600" font-size="25" font-weight="700">&lt;/&gt;</text>
   </g>
   <path d="M310 232H550M650 232H890" stroke="url(#line)" stroke-width="3"/>
