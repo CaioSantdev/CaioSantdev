@@ -18,7 +18,7 @@
   <g stroke="#919497" stroke-width="1.4"><path d="M37 91L43 97M43 91L37 97M1157 37L1163 43M1163 37L1157 43M37 249L43 255M43 249L37 255M1157 214L1163 220M1163 214L1157 220"/></g>
   <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
     <text x="600" y="126" fill="#fafafa" font-size="55" font-weight="800" letter-spacing="1">Caio Santos Silva</text>
-    <text x="600" y="165" fill="#e4e4e4" font-size="22" font-weight="600"> Full Stack Engineer <tspan fill="#ffd600">|</tspan> Backend </text>|</tspan> Python </text>|</tspan> Django </text>|</tspan> FastAPI </text>
+    <text x="600" y="165" fill="#e4e4e4" font-size="22" font-weight="600">Full Stack Engineer <tspan fill="#ffd600">|</tspan> Backend <tspan fill="#ffd600">|</tspan> Python <tspan fill="#ffd600">|</tspan> Django <tspan fill="#ffd600">|</tspan> FastAPI</text>
     <text x="600" y="199" fill="#bfc0c2" font-size="18">Python <tspan fill="#ffd600">•</tspan> FastAPI <tspan fill="#ffd600">•</tspan> React <tspan fill="#ffd600">•</tspan> TypeScript</text>
     <text x="600" y="241" fill="#ffd600" font-size="25" font-weight="700">&lt;/&gt;</text>
   </g>
